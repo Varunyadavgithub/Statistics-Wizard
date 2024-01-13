@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mean, Median, Mode Calculator.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main">
+        <div class="heading">Mean, Median and Mode Calculator</div>
+        <div class="input-section">
+            <label for="numbers">Enter numbers (comma-separated):</label>
+            <input type="text" id="numbers">
+        </div>
+        <div class="button-section">
+            <button id="mean" onclick="calculate('mean')">Mean</button>
+            <button id="median" onclick="calculate('median')">Median</button>
+            <button id="mode" onclick="calculate('mode')">Mode</button>
+        </div>
+        <div class="result-section">
+            <h3>Result:</h3>
+            <p id="result"></p>
+        </div>
+    </div>
+</body>
+<script src="app.js"></script>
+</html>
