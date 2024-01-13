@@ -19,7 +19,7 @@ function calculate(type) {
         result=`Median is: ${calculateMedian(numbers)}`;
     }
     else if(type==='mode'){
-        result=`Mode is: ${calculateMode(numbers).join(', ')} Not possible`;
+        result=`Mode is: ${calculateMode(numbers).join(', ')} No mode in this dataset.`;
     }
 
     document.getElementById('result').innerText = result;
