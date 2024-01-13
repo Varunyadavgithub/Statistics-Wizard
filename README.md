@@ -2,6 +2,9 @@
 Welcome to my project Statistics Wizard(jaadoogar) the Mean, Median, and Mode Calculator!<br>
 This compact tool provides quick and easy calculations for the central tendencies of a dataset.
 
+https://github.com/Varunyadavgithub/Statistics-Wizard/assets/134674472/44260ff8-7bea-4b79-ac82-d2888f27bd3b
+
+
 # Features
 Mean Calculation: Input a set of numbers, and the calculator will instantly provide the mean (average) of the dataset.<br><br>
 Median Calculation: Enter your data, and the calculator will promptly compute the median, which is the middle value of the sorted dataset.<br><br>
