@@ -16,7 +16,7 @@ function calculate(type) {
         result=`Mean is: ${calculateMean(numbers).toFixed(2)}`;
     }
     else if(type==='median'){
-        result=`Median is: ${calculateMedian(numbers)}`;
+        result=`Median is: ${calculateMedian(numbers).toFixed(2)}`;
     }
     else if(type==='mode'){
         result=`Mode is: ${calculateMode(numbers).join(', ')}`;
