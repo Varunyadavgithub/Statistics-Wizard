@@ -1,4 +1,4 @@
-# Statistics-Wizard
+# Statistics-Wizard [**🔗Live Link**](https://varunyadavgithub.github.io/Statistics-Wizard/)
 Welcome to my project Statistics Wizard(jaadoogar) the Mean, Median, and Mode Calculator!<br>
 This compact tool provides quick and easy calculations for the central tendencies of a dataset.
 
